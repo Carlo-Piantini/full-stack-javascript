@@ -1,0 +1,1 @@
+This is the intial 'README.md' file created in the 'practicing-git-basics' project for the 'git-basics' lesson.
